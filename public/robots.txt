@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gotax-2de5b5c8.zappy5.app/sitemap.xml
